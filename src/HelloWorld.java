@@ -12,7 +12,7 @@ public class HelloWorld {
 		 	panel.setLayout(new GridLayout(3, 1));
 		 	
 		 	JLabel label1 = new JLabel("Michael Acebedo - 3005265952", SwingConstants.CENTER);
-		 	JLabel label2 = new JLabel("This is a label!", SwingConstants.CENTER);
+		 	JLabel label2 = new JLabel("Steven Orpilla - 300265451", SwingConstants.CENTER);
 		 	
 		 	JButton button = new JButton("Close");
 		 	button.addActionListener(e -> System.exit(0));
